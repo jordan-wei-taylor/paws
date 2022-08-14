@@ -1,5 +1,6 @@
 # virtual python environment
 env
 
-# jupyter
+# python
 .ipynb_checkpoints
+__pycache__
